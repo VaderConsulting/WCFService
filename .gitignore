@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.suo
+*.user
+ConfigClientTest/app.config
+ConfigClientTest/Service References/ConfigService/CADS4.disco
+ConfigClientTest/Service References/ConfigService/CADS43.xsd
+ConfigClientTest/Service References/ConfigService/configuration91.svcinfo
+ConfigClientTest/Service References/ConfigService/CADS4.wsdl
+ConfigClientTest/Service References/ConfigService/configuration.svcinfo
+ConfigClientTest/Service References/ConfigService/Reference.svcmap
+WCFService/ConfigService.Publish.xml
+WCFService/web.config
+WCFService/web_tracelog.svclog

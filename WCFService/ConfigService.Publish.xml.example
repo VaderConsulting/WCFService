@@ -1,0 +1,24 @@
+<publishData>
+  <publishTarget publishUrl="C:\Temp\Config\">
+    <file relUrl="bin/ConfigService.dll" publishTime="10/02/2008 15:36:41" />
+    <file relUrl="bin/Utility.pdb" publishTime="10/02/2008 15:27:33" />
+    <file relUrl="bin/Utility.xml" publishTime="10/02/2008 15:27:33" />
+    <file relUrl="bin/Web.config" publishTime="10/02/2008 11:37:41" />
+    <file relUrl="Web.config" publishTime="10/02/2008 11:37:41" />
+    <file relUrl="Master.config" publishTime="10/02/2008 15:14:45" />
+    <file relUrl="bin/Utility.dll" publishTime="10/02/2008 15:27:33" />
+    <file relUrl="bin/Master.config" publishTime="10/02/2008 15:14:45" />
+    <file relUrl="bin/ConfigService.pdb" publishTime="10/02/2008 15:36:41" />
+    <file relUrl="bin/ConfigService.xml" publishTime="10/02/2008 15:36:41" />
+    <file relUrl="CADS4.svc" publishTime="10/01/2008 11:28:47" />
+  </publishTarget>
+  <publishTarget publishUrl="http://host.example/config/">
+    <file relUrl="bin/Utility.xml" publishTime="10/02/2008 09:38:15" />
+    <file relUrl="bin/Utility.pdb" publishTime="10/02/2008 09:38:15" />
+    <file relUrl="bin/Utility.dll" publishTime="10/02/2008 09:38:15" />
+    <file relUrl="bin/ConfigService.dll" publishTime="10/02/2008 09:38:15" />
+    <file relUrl="bin/ConfigService.pdb" publishTime="10/02/2008 09:38:15" />
+    <file relUrl="bin/ConfigService.xml" publishTime="10/02/2008 09:38:15" />
+    <file relUrl="bin/Master.config" publishTime="10/01/2008 14:21:16" />
+  </publishTarget>
+</publishData>

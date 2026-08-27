@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="ConfigService.CADS4" CodeBehind="CADS4.svc.vb" %>

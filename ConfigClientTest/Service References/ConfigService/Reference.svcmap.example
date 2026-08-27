@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e2f65dfd-e854-4f6c-9775-6f1907f6c9ec" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.SortedList" Category="Dictionary" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://host.example/Config/CADS4.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CADS4.xsd" MetadataType="Schema" ID="432d2d4b-408e-4b6e-b33e-4207c54fa5ef" SourceId="1" SourceUrl="http://host.example/Config/CADS4.svc?xsd=xsd1" />
+    <MetadataFile FileName="CADS4.wsdl" MetadataType="Wsdl" ID="e4a89417-a264-41e6-a576-e6a18dba9517" SourceId="1" SourceUrl="http://host.example/Config/CADS4.svc?wsdl" />
+    <MetadataFile FileName="CADS41.xsd" MetadataType="Schema" ID="5b587c40-b5c8-4ad0-9d22-b9a71ae53616" SourceId="1" SourceUrl="http://host.example/Config/CADS4.svc?xsd=xsd3" />
+    <MetadataFile FileName="CADS42.xsd" MetadataType="Schema" ID="3199df3a-c2cc-4b04-b585-4157aaaa9489" SourceId="1" SourceUrl="http://host.example/Config/CADS4.svc?xsd=xsd2" />
+    <MetadataFile FileName="CADS43.xsd" MetadataType="Schema" ID="cbb86ffc-2132-45a6-bae0-066376152d56" SourceId="1" SourceUrl="http://host.example/Config/CADS4.svc?xsd=xsd0" />
+    <MetadataFile FileName="CADS4.disco" MetadataType="Disco" ID="c1687e89-acaf-4769-9b96-ae4ed82aee7f" SourceId="1" SourceUrl="http://host.example/Config/CADS4.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
