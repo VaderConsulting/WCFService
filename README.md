@@ -17,6 +17,10 @@ VB.NET Visual Studio 2008 WCF web application that exposes a CADS4 configuration
 
 Open `WCFService.sln` in Visual Studio 2008 or later (solution format 10.00 / ToolsVersion 3.5). Restore the sibling `Framework\Utility` project (solution path `..\Framework\Utility\Utility.vbproj`) or the `ConfigService` and `ConfigClientTest` projects will not build. `ConfigService` is a web application using the VS development server on port 8439, virtual path `/Config` (`CADS4.svc`). Default master config path is `C:\Temp\Master.config`. Requires .NET Framework 3.5 and `System.ServiceModel`. Files that contained an internal hostname or Windows username are gitignored; use the matching `*.example` copies.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `WCFService`. `ConfigService` assembly company/copyright is Stratatel 2008 (`AssemblyTitle` ConfigService). `ConfigClientTest` still has the Visual Studio template defaults (Microsoft 2008). Service type `ConfigService.CADS4`; contract `IConfig`; namespaces `ConfigService` / `ConfigClientTest`.
