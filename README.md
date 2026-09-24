@@ -23,7 +23,7 @@ Open `WCFService.sln` in Visual Studio 2008 or later (solution format 10.00 / To
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `WCFService`. `ConfigService` assembly company/copyright is Stratatel 2008 (`AssemblyTitle` ConfigService). `ConfigClientTest` still has the Visual Studio template defaults (Microsoft 2008). Service type `ConfigService.CADS4`; contract `IConfig`; namespaces `ConfigService` / `ConfigClientTest`.
+Working copy from my Historical Dev folder `WCFService`. `ConfigService` assembly company/copyright is Stratatel 2008 (`AssemblyTitle` ConfigService). `ConfigClientTest` still has the Visual Studio template defaults (Microsoft 2008). Service type `ConfigService.CADS4`; contract `IConfig`; namespaces `ConfigService` / `ConfigClientTest`.
 
 ## License
 
